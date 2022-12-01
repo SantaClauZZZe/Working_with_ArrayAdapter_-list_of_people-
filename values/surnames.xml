@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="surnames">
+        <item>ABRAMOVICH</item>
+        <item>CABINS</item>
+        <item>KAYMAKOV</item>
+        <item>HARIN</item>
+        <item>PAVLENKO</item>
+        <item>PAKSHIN</item>
+        <item>OBAYANTSEV</item>
+        <item>OGARKOV</item>
+        <item>MAKARENKO</item>
+        <item>OBARIN </item>
+        <item>CHEGLOV</item>
+        <item>MAKARENKOV</item>
+        <item>CHELYUKANOV</item>
+        <item>OGAREV</item>
+    </string-array>
+</resources>
